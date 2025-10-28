@@ -62,6 +62,7 @@ Data Handling	Pandas, NumPy
 Machine Learning	Scikit-learn, TensorFlow, Keras
 Visualization	Matplotlib, Seaborn, Plotly
 Environment	Jupyter Notebooks, Google Colab
+
 🧩 Projects
 🎬 Movie Recommendation System
 
